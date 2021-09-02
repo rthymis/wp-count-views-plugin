@@ -1,0 +1,4 @@
+/* Hide the google chart error messages */
+div[id^="google-visualization-errors-all"] {
+  display:none !important;
+}
